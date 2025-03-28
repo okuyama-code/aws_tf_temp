@@ -2,7 +2,7 @@
 
 ## リソース操作
 
-各環境(`/staging/`, `/production/`, `/production/admin/`)で以下コマンドを実施して操作.
+各環境(`/staging/`, `/production/`)で以下コマンドを実施して操作.
 初回のみ (init コマンドは)
 
 ```
